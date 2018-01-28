@@ -1,8 +1,8 @@
 // https://docs.saltstack.com/en/develop/ref/states/all/salt.states.git.html
 
 {
-  user: 'dinosaur',
+  user: 'mischa-s',
   config: {
-    'user.email': 'mikey@enspiral.com'
+    'user.email': 'mischasaunders@gmail.com'
   }
 }
