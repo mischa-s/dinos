@@ -54,6 +54,7 @@ mkdir -p ~/repos/ahdinosaur
 cd ~/repos/ahdinosaur
 git clone git://github.com/ahdinosaur/dinos
 cd dinos
+npm i
 node bin
 ```
 
