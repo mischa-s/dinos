@@ -58,6 +58,17 @@ npm i
 node bin
 ```
 
+## programs to add
+Atom
+GitKraken
+Slack
+
+## program config to add
+Chrome
+- lastpass
+
+Atom
+-
 ## plugin format
 
 _ignore_
