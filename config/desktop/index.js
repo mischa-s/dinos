@@ -21,6 +21,10 @@ module.exports = [
     source: join(__dirname, 'i3/config'),
     target: '.config/i3/config'
   },
+   {
+    type: 'exec',
+    command: `mkdir -p $HOME/.config/plasma-workspace/env`
+},
   {
     type: 'link',
     source: join(__dirname, 'plasma-workspace/env/wm.sh'),
