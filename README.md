@@ -40,6 +40,16 @@ a personal Debian Linux distribution using a custom configuration managment syst
 _ignore_
 
 ```shell
+sudo apt-get update
+sudo apt-get install git
+sudo apt-get install curl
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.8/install.sh | bash
+
+nvm install node
+nvm use node
+nvm install --lts
+nvm use --lts
+
 mkdir -p ~/repos/ahdinosaur
 cd ~/repos/ahdinosaur
 git clone git://github.com/ahdinosaur/dinos
