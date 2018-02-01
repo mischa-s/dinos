@@ -53,10 +53,11 @@ module.exports = [
     command: 'apt update -y',
     sudo: true
   },
-  {
+/*  {
     type: 'aptpkg',
     package: 'docker-ce'
   },
+*/  
   {
     type: 'exec',
     commands: [
