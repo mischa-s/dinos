@@ -57,7 +57,7 @@ module.exports = [
     type: 'aptpkg',
     package: 'docker-ce'
   },
-*/  
+
   {
     type: 'exec',
     commands: [
@@ -67,4 +67,5 @@ module.exports = [
     ],
     sudo: true
   }
+ */
 ]
