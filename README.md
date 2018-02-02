@@ -63,10 +63,14 @@ Atom
 GitKraken
 Slack
 
+## Gotchas
+- https://www.techrepublic.com/blog/diy-it-guy/diy-a-postgresql-database-server-setup-anyone-can-handle/
+- postgres https://www.techrepublic.com/blog/diy-it-guy/diy-a-postgresql-database-server-setup-anyone-can-handle/
+- adduser 'yourname' sudo (requires logout after to take effect)
+
 ## program config to add
-postgres https://www.techrepublic.com/blog/diy-it-guy/diy-a-postgresql-database-server-setup-anyone-can-handle/
-Chrome
-- lastpass
+- Chrome
+  - lastpass
 
 Atom
 - autoclose-html
