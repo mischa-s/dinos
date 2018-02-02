@@ -64,6 +64,7 @@ GitKraken
 Slack
 
 ## program config to add
+postgres https://www.techrepublic.com/blog/diy-it-guy/diy-a-postgresql-database-server-setup-anyone-can-handle/
 Chrome
 - lastpass
 
