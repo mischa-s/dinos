@@ -68,7 +68,15 @@ Chrome
 - lastpass
 
 Atom
--
+- autoclose-html
+- autocomplete-paths
+- color-picker
+- highlight-selected
+- linter
+- linter-js-standard
+- react
+- vim-mode-improved
+
 ## plugin format
 
 _ignore_
