@@ -64,13 +64,26 @@ GitKraken
 Slack
 
 ## Gotchas
-- https://www.techrepublic.com/blog/diy-it-guy/diy-a-postgresql-database-server-setup-anyone-can-handle/
-- postgres https://www.techrepublic.com/blog/diy-it-guy/diy-a-postgresql-database-server-setup-anyone-can-handle/
-- adduser 'yourname' sudo (requires logout after to take effect)
+- filewatcher: https://stackoverflow.com/questions/22475849/node-js-error-enospc#32600959
+- postgres: https://www.techrepublic.com/blog/diy-it-guy/diy-a-postgresql-database-server-setup-anyone-can-handle/
+- sudo: adduser 'yourname' sudo (requires logout after to take effect)
+- touchpad: https://wiki.debian.org/SynapticsTouchpad
 
 ## program config to add
 - Chrome
   - lastpass
+  - duck duck go
+  - do not track
+  - privacy badger
+  - toggl
+  - lighthouse
+  - redux dev tools
+  - react dev tools
+
+- Firefox
+  - lastpass
+  - duck duck go
+
 
 Atom
 - autoclose-html
@@ -80,7 +93,6 @@ Atom
 - linter
 - linter-js-standard
 - react
-- vim-mode-improved
 
 ## plugin format
 
