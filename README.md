@@ -94,6 +94,9 @@ Atom
 - linter-js-standard
 - react
 
+## Encryption links
+- https://xo.tc/setting-up-full-disk-encryption-on-debian-9-stretch.html
+
 ## plugin format
 
 _ignore_
