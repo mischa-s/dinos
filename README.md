@@ -68,6 +68,7 @@ Slack
 - postgres: https://www.techrepublic.com/blog/diy-it-guy/diy-a-postgresql-database-server-setup-anyone-can-handle/
 - sudo: adduser 'yourname' sudo (requires logout after to take effect)
 - touchpad: https://wiki.debian.org/SynapticsTouchpad
+- wifi: https://wiki.debian.org/iwlwifi
 
 ## program config to add
 - Chrome
