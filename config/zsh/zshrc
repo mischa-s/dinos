@@ -91,3 +91,6 @@ alias gtrash="git status --short | xargs trash"
 alias gres="git diff origin/master --name-only | xargs sublime"
 alias gdres="git diff --name-only | xargs sublime"
 alias gfire="git push origin HEAD:${USER}-fire -f"
+
+# Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
+export PATH="$PATH:$HOME/.rvm/bin"
