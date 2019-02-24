@@ -35,6 +35,9 @@ a personal Debian Linux distribution using a custom configuration managment syst
 - [ ] graphical interface to show configuration and status
   - [ ] detect conflicting changes but don't override without permission
 
+## Encryption links
+- https://xo.tc/setting-up-full-disk-encryption-on-debian-9-stretch.html
+
 ## start
 
 _ignore_
@@ -94,9 +97,6 @@ Atom
 - linter
 - linter-js-standard
 - react
-
-## Encryption links
-- https://xo.tc/setting-up-full-disk-encryption-on-debian-9-stretch.html
 
 ## plugin format
 
